@@ -12,8 +12,8 @@
 #include <PZEM004Tv30.h>
 #include "DHT.h"
 
-const char ssid[] = "G6PD_2.4G";
-const char pass[] = "570610193";
+const char ssid[] = "G6PD_2.4G";   //  ชื่อไวไฟ
+const char pass[] = "570610193";   //  รหัสผ่านไวไฟ
 const char email[] = "timpiga.56789@gmail.com";
 
 Cynoiot iot;
