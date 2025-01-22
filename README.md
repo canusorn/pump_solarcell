@@ -24,10 +24,13 @@
 ## Address เซนเซอร์แต่ละตัว
 เซนเซอร์แต่ละตัว จะมี Address แยกแต่ละตัวให้แล้ว ทำให้ต่อขนานกันได้เลย สเปคเซนเซอร์แต่ละตัว เอาชื่อไปค้นหาจาก google ได้เลย
 
+- [โค้ดเปลี่ยน Address Pzem017](https://raw.githubusercontent.com/canusorn/pump_solarcell/refs/heads/main/pzem017_changeAddr/pzem017_changeAddr.ino)
 - PZEM017 1 - วัดไฟแผงเข้าชาร์จเจอร์
 - PZEM017 2 - วัดไฟจากชาร์จเจอร์ เข้าแบตเตอร์รี่
 - PZEM017 3 - วัดไฟจากแบตเตอร์รี่ เข้าอินเวอร์เตอร์ 220V
 - PZEM017 4 - วัดไฟจากแบตเตอร์รี่ เข้าอินเวอร์เตอร์ปั้มน้ำ
+
+- [โค้ดเปลี่ยน Address Pzem004T](https://raw.githubusercontent.com/canusorn/pump_solarcell/refs/heads/main/pzem004T_changAddr/pzem004T_changAddr.ino)
 - PZEM004T 1 - วัดไฟ ac เต้ารับ
 - PZEM004T 2 - วัดไฟ ac ที่เข้าอินเวอร์เตอร์ปั้มน้ำ
 
