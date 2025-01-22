@@ -10,6 +10,7 @@ PZEM004T
 DHT22
 // 26 > OUT
 */
+
 #include <WiFi.h>
 #include <ModbusMaster.h>    // ติดตั้งจาก Library Manager ค้นหา ModbusMaster
 #include <cynoiot.h>         // ติดตั้งจาก Library Manager ค้นหา cynoiot
@@ -226,7 +227,7 @@ void readAcSensor()
 // ฟังก์ชันอ่านค่าจาก PZEM017
 void readDcSensor()
 {
-  // สร้าง object ชื่อ node จาก class ModbusMaster
+  // สร้าง object ชื่อ node จาก class ModbusMaster เพื่อใช้ในการอ่านค่าจาก PZEM017 4 ตัว
   ModbusMaster node1;
   ModbusMaster node2;
   ModbusMaster node3;
