@@ -3,8 +3,8 @@
 ## โค้ด
 1. [โค้ดหลัก](https://raw.githubusercontent.com/canusorn/pump_solarcell/refs/heads/main/solar_pump_measure/solar_pump_measure.ino) ก็อปไปลง Arduino ide 
 และแก้ไขชื่อไวไฟ รหัสไวไฟ และอีเมลล์ที่สมัครหน้าเว็บ
-2. โค้ดเปลี่ยน Address Pzem017 (กำลังทำให้ครับ)
-3. โค้ดเปลี่ยน Address Pzem004T (กำลังทำให้ครับ)
+2. [โค้ดเปลี่ยน Address Pzem017](https://raw.githubusercontent.com/canusorn/pump_solarcell/refs/heads/main/pzem017_changeAddr/pzem017_changeAddr.ino)
+3. [โค้ดเปลี่ยน Address Pzem004T](https://raw.githubusercontent.com/canusorn/pump_solarcell/refs/heads/main/pzem004T_changAddr/pzem004T_changAddr.ino)
 
 
 ## การติดตั้งโปรแกรม และอัพโหลดโค้ด
